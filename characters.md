@@ -2,7 +2,7 @@
 title: Characters
 description: Denizens of Vandemar
 published: 1
-date: 2020-05-17T21:54:01.594Z
+date: 2020-05-17T22:09:29.517Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 * [Babar Oscarix](/characters/player/babar-oscarix)
 * [Delacroix](/characters/player/delacroix)
 * [Dramstile](/characters/player/dramstile)
-* [Greta](/chracters/player/greta)
+* [Greta](/characters/player/greta)
 * [Magobak](/characters/player/magobak)
 * [Mairon](/characters/player/mairon)
 * [Misty Trail](/characters/player/misty-trail)
