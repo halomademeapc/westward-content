@@ -2,7 +2,7 @@
 title: Characters
 description: Denizens of Vandemar
 published: 1
-date: 2020-05-18T00:08:36.426Z
+date: 2020-05-18T00:10:48.959Z
 tags: 
 ---
 
@@ -20,5 +20,5 @@ tags:
 * [William](/characters/player/william)
 
 ## Non-Player Characters
-* [Helen](/character/npc/Helen)
+* [Helen](/characters/npc/Helen)
 
