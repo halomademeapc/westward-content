@@ -2,7 +2,7 @@
 title: Characters
 description: Denizens of Vandemar
 published: 1
-date: 2020-05-18T00:17:48.681Z
+date: 2020-05-18T00:18:54.147Z
 tags: 
 ---
 
