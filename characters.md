@@ -2,7 +2,7 @@
 title: Characters
 description: Denizens of Vandemar
 published: 1
-date: 2020-05-18T00:10:48.959Z
+date: 2020-05-18T00:17:48.681Z
 tags: 
 ---
 
@@ -21,4 +21,10 @@ tags:
 
 ## Non-Player Characters
 * [Helen](/characters/npc/Helen)
+* [Fenrick](/characters/npc/Fenrick)
+* [Havlock](/characters/npc/Havlock)
+* [Andross Guile](/characters/npc/AndrossGuile)
+* [Andy Fulton](/characters/npc/AndyFulton) 
+* [Mr. Wellington](/characters/npc/Wellington)
+* [Gerard](/characters/npc/gerard)
 
