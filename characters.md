@@ -2,7 +2,7 @@
 title: Characters
 description: Denizens of Vandemar
 published: 1
-date: 2020-05-18T01:03:51.293Z
+date: 2020-05-18T21:56:02.405Z
 tags: 
 ---
 
@@ -27,4 +27,5 @@ tags:
 * [Andy Fulton the Merchant](/characters/npc/AndyFulton) 
 * [Mr. Wellington the Logger](/characters/npc/Wellington)
 * [Gerard the Mole](/characters/npc/gerard)
+* [Jolel the Archeolgist](/characters/npc/Jolel)
 
