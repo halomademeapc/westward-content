@@ -2,11 +2,12 @@
 title: Characters
 description: Denizens of Vandemar
 published: 1
-date: 2020-05-18T21:56:02.405Z
+date: 2020-05-19T01:47:31.435Z
 tags: 
 ---
 
 ## Player Characters
+* [Airthora](characters/player/airthora)
 * [Babar Oscarix](/characters/player/babar-oscarix)
 * [Delacroix](/characters/player/delacroix)
 * [Dramstile](/characters/player/dramstile)
